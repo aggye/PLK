@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: May 2023 Newletter
 ---
 
