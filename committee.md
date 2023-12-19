@@ -8,7 +8,7 @@ title: Committee
 <div>All ex-Commanding Officers</div>
 
 <div class="committee-header">President</div>
-<div>Brig. John Kendall</div>
+<div>Brig. John Kendall ADC,VR</div>
 
 <div class="committee-header">Vice Presidents</div>
 <div>Lt Col (Retd) L G French RS</div>
@@ -38,7 +38,7 @@ title: Committee
 </table>
 
 <div class="committee-header">Management Committee</div>
-<div>Chairman: Maj (Retd) R G Simpson TD</div>
+<div>Chairman: Capt (Retd) Debbie Wilkinson</div>
 <div>Vice Chairman: Maj J C Allan TD</div>
 <div>Officer Commanding 31 (MY and PLK) Signal Squadron</div>
 <div>Mr R.M Tattle</div>
@@ -85,5 +85,6 @@ title: Committee
 <div>Army Reserve Centre</div>
 <div>Marlpit Lane</div>
 <div>Coulsdon</div>
+<div>CR5 2HD</div>
 
 </center>
