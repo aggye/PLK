@@ -760,7 +760,8 @@ footer {
   top: 50vh; }
 
 #left-sidebar {
-   padding-top: 70px;
+  position:absolute;
+  top:25%;
   left: 50px; }
 
 #right-sidebar {
