@@ -39,7 +39,7 @@ title: Committee
 
 <div class="committee-header">Management Committee</div>
 <div>Chairman: Capt (Retd) Debbie Wilkinson</div>
-<div>Vice Chairman: Maj J C Allan TD</div>
+<div>Vice Chairman: Major (Retd) J C Allan TD</div>
 <div>Officer Commanding 31 (MY and PLK) Signal Squadron</div>
 <div>Mr R.M Tattle</div>
 <div>Mr M Byrne</div>
