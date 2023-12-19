@@ -46,6 +46,7 @@ title: Committee
 <div>Mr P Lovett</div>
 <div>Mr R Watson</div>
 <div>Mr I North</div>
+<div>Mr S May</div>
 
 <table>
 <tr>
